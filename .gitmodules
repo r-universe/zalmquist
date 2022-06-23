@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "UScensus2010"]
+	path = UScensus2010
+	url = https://github.com/zalmquist/uscensus2010
+	shallow = true
+	registered = true
